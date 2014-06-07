@@ -1,0 +1,1 @@
+Select *From Data Where Date = '2014-05-02'&& Minute(Time) LIKE '%0%'  Order by Time
